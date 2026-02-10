@@ -1,0 +1,12 @@
+# Core numerical & signal processing
+numpy>=1.26
+scipy>=1.11
+
+# Visualization
+matplotlib>=3.8
+
+# Data handling
+pandas>=2.1
+
+# Detection & ML
+scikit-learn>=1.4
