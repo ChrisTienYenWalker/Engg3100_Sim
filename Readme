@@ -1,7 +1,7 @@
 1. Create a Virtual Environment
 
 Open a terminal in the project root directory and run:
-
+```bash
 python -m venv venv
 
 
@@ -10,12 +10,12 @@ This will create a virtual environment named venv.
 2. Activate the Virtual Environment
 
 Windows:
-
+```bash
 venv\Scripts\activate
 
 
 macOS / Linux:
-
+```bash
 source venv/bin/activate
 
 
@@ -25,4 +25,5 @@ After activation, your terminal prompt should show (venv) at the beginning.
 
 Once the virtual environment is active, install all dependencies:
 
+```bash
 pip install -r requirements.txt
