@@ -3,7 +3,7 @@
 Open a terminal in the project root directory and run:
 ```bash
 python -m venv venv
-
+```bash
 
 This will create a virtual environment named venv.
 
@@ -27,3 +27,4 @@ Once the virtual environment is active, install all dependencies:
 
 ```bash
 pip install -r requirements.txt
+
