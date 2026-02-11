@@ -4,5 +4,6 @@
 
 Open a terminal in the project root directory and run:
 
-```bash
+'''bash
 python -m venv venv
+'''
